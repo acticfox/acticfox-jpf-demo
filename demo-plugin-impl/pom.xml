@@ -6,7 +6,7 @@
 	<artifactId>demo-plugin-impl</artifactId>
 	
 	<parent>
-		<groupId>com.github.acticfox</groupId>
+		<groupId>io.github.acticfox</groupId>
 		<artifactId>jpf-demo</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
    </parent>
@@ -20,7 +20,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.github.acticfox</groupId>
+			<groupId>io.github.acticfox</groupId>
 			<artifactId>demo-plugin-api</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 			<scope>provided</scope>

@@ -6,31 +6,30 @@
 	<artifactId>demo-service</artifactId>
 
 	<parent>
-		<groupId>com.github.acticfox</groupId>
+		<groupId>io.github.acticfox</groupId>
 		<artifactId>jpf-demo</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
 	<dependencies>
 		<dependency>
-			<groupId>com.github.acticfox</groupId>
+			<groupId>io.github.acticfox</groupId>
 			<artifactId>jpf-starter</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>com.github.acticfox</groupId>
+			<groupId>io.github.acticfox</groupId>
 			<artifactId>demo-plugin-api</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>com.github.acticfox</groupId>
+			<groupId>io.github.acticfox</groupId>
 			<artifactId>demo-api</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>30.1.1-jre</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
